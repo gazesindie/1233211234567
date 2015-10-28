@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Webpage</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="content-box1"><p id="head">Blue Blue Sky Good Good Day
+<h1 class="title">On travelling...</br>Tell you about a place I had been to</h1>
+<a href="DSC02195-1.jpg">click to see the photo</a>
+<h2 class="title">And a quote I like...</h2>
+<blockquote id="blockquote">"To travel is to take a journey into yourself."</br>
+&mdash;Danny Kaye</blockquote>
+</div>
+<div id="content-box2">
+<h1 class="title">I like indie music...</h1>
+<p>The following are some bands I like:</p>
+<ul type="bands">
+<li>The Smiths</li>
+<li>The Radio Dept.</li>
+<li>Best Coast</li>
+<li>Blondie Redhead</li>
+<li>Asobi Seksu</li>
+
+</ul></div>
+<div id="content-box3">
+<h2 class="title">&copy;Copyright 2015 by Wen-Hui</h2>
+<P> so this is the website</P>
+
+
+<a href="http://www.google.com">link to google</a>  I put this for no reason</div>
+
+</html>
